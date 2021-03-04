@@ -11,7 +11,7 @@
 - [Email](#Email)
 - [LinkedIn-profile](#LinkedIn-profile)
 - [GitHub-profile](#GitHub-profile)
-- [Website)](#Website)
+- [Website](#Website)
 
 ### About the project:
 
