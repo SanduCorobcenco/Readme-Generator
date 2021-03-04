@@ -23,7 +23,7 @@ This Application is a README generator that allows the user to create a README.m
 
 ### Picture:
 
-![Picture](./img/1.png)
+![Picture](./)
 
 ### Installation:
 
