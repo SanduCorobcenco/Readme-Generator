@@ -4,7 +4,7 @@
 
 - [About-project](#Description)
 - [Video](#Video)
-- [Picture1](#Picture1)
+- [Screenshot](#Picture1)
 - [Installation](#Installation)
 - [License](#License)
 - [Contributor](#Contributor)
